@@ -10,8 +10,8 @@ I'm a full-stack developer and DevOps enthusiast with a passion for enhancing th
 - 👯 Looking to collaborate on open-source projects, especially in web development and security
 - 💬 Ask me about React, PHP, Laravel, Python, JavaScript, Linux, Web Security, Node.js
 - 📫 Reach me at:
-  - Email: [webdops@protonmail.com](mailto:webdops@protonmail.com)
-  - Telegram: [Kian_336](https://t.me/Kian_336)
+  - Email: [webdops@protonmail.com](mailto:webdopsir@protonmail.com)
+  - Telegram: [Kian_336](https://t.me/exchi)
   - Instagram: [@webdops](https://Instagram.com/webdops)
 - ⚡ Fun fact: I'm always on the lookout for new technologies to learn and master
 
